@@ -4,8 +4,8 @@
 """
 Start application server on port 8080
 
-The first command line argument will set the port to be bound. Remeber, you 
-need root privvileges to bind ports below 1024.
+The first command line argument will set the port to be bound. Remember, you 
+need root privileges to bind ports below 1024.
 
 """
 
